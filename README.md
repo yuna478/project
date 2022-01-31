@@ -13,4 +13,9 @@ this is how it will look
 
 
 ### how to do what i did in the project
-  open the [code directory](
+  > * enter the [code directory](https://github.com/yuna478/project/tree/main/code) and open the code inside
+  > * connect the arduino
+  > * upload the code
+  
+this project was made by yuna misaghi.
+contact me at yunamisaghi@yahoo.com
